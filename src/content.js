@@ -14,6 +14,7 @@ window.addEventListener('load', () => {
         .replaceAll(/レギュ/g,'カテゴリ')
         .replaceAll(/コメント/g,'チャット')
         .replaceAll(/チャート/g,'ルート')
+        .replaceAll(/わこつ/g,'')
     }
   );
 });
