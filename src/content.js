@@ -13,6 +13,7 @@ window.addEventListener('load', () => {
         .replaceAll(/レギュレーション/g,'カテゴリ')
         .replaceAll(/レギュ/g,'カテゴリ')
         .replaceAll(/コメント/g,'チャット')
+        .replaceAll(/チャート/g,'ルート')
     }
   );
 });
